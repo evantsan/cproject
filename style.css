@@ -1,0 +1,68 @@
+.line {
+    width: 300px;
+    height: 20px;
+    background-color: black;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+p {
+    max-width: 500px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: normal;
+    font-family: 'Orbitron', sans-serif;
+}
+
+
+#welcome {
+
+    height: 1000px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 1;
+}
+
+img {
+    margin-top: 100px;
+    border: 5px ridge black;
+    border-radius: 30px;
+}
+
+body {
+    background: linear-gradient(#a8ff78, #78ffd6, #0ED2F7);
+}
+
+
+
+
+a {
+    color: black;
+    text-decoration: none;
+
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+#alink {
+    font-size: 25px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+
